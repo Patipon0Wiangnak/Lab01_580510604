@@ -1,0 +1,157 @@
+/*
+* @Author: dochi-server
+* @Date:   2016-05-23 16:13:46
+* @Last Modified by:   dochi-server
+* @Last Modified time: 2016-05-24 02:35:43
+*/
+
+h1 {
+
+    /*text shadow*/
+    text-shadow: 5px 5px 5px grey; 
+
+    /*text location*/
+    position: absolute;
+    top: 0px;
+    left: 3%;
+
+    /*box color*/
+    color: #c0392b;
+    border: 5px solid #ffee58;
+    
+    /*box angle*/
+    border-radius:  10px ;
+
+    /*box location*/
+    text-align: center;
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.png-contain {
+    
+    border-radius:  10px ;
+    
+    position: absolute;
+    top: 135px;
+    left: 6%;
+
+}
+
+.profile-contain {
+
+    /*box color*/
+    color: #c0392b  ;
+    border: 5px solid #ffee58   ;
+    background-color: white  ;
+
+    /*box angle*/
+    border-radius:  10px ;
+    
+    /*box location*/
+    text-align: left ;
+    padding: 10px ;
+
+    position: absolute;
+    top: 135px;
+    left: 15%;
+
+}
+
+.carlendar-contain {
+
+    /*box color*/
+    color: #c0392b  ;
+    border: 5px solid #ffee58   ;
+    background-color: white  ;
+
+    /*box angle*/
+    border-radius:  10px ;
+    
+    /*box location*/
+    text-align: left ;
+    padding: 10px ;
+
+    position: absolute;
+    top: 280px;
+    left: 6%;
+
+}
+
+.day {
+    font-size: 22px;
+    text-align: center ;
+}
+.row {
+    color: #fff176;
+    text-align: center ;
+}
+
+.col1 {
+    color: lightgrey;
+    text-align: center ;
+}
+
+.col2 {
+    color: #42a5f5;
+    font-size: 18px;
+    text-align: center ;
+}
+
+.col3 {
+    color: #f06292;
+    font-size: 18px;
+    text-align: center ;
+}
+
+.col4 {
+    color: #00e676;
+    font-size: 18px;
+    text-align: center ;
+}
+
+.note-contain {
+
+    /*box color*/
+    color: #f50057 ;
+    border: 5px solid #ffee58   ;
+    background-color: white  ;
+
+    /*box angle*/
+    border-radius:  10px ;
+    
+    /*box location*/
+    text-align: left ;
+    padding: 10px ;
+
+    position: absolute;
+    top: 280px;
+    left: 35%;
+
+}
+
+.note-contain2 {
+
+    /*box color*/
+    color: #00c853 ;
+    border: 5px solid #ffee58   ;
+    background-color: white  ;
+
+    /*box angle*/
+    border-radius:  10px ;
+    
+    /*box location*/
+    text-align: left ;
+    padding: 10px ;
+
+    position: absolute;
+    top: 480px;
+    left: 35%;
+
+}
+
+* {
+    font-family: 'Lobster', cursive;
+}
+
+               
